@@ -1,182 +1,343 @@
 tags,location,timestamp
-['Cracked Pavement'],"{'latitude': 43.7198062, 'longitude': 10.4003322}",2025-01-03 23:11:15+00:00
-['Overgrown Vegetation'],"{'latitude': 43.7220323, 'longitude': 10.3886623}",2024-12-28 10:43:21+00:00
-['Cracked Pavement'],"{'latitude': 43.7225023, 'longitude': 10.395594}",2025-02-07 22:49:35+00:00
-['Pothole'],"{'latitude': 43.7213003, 'longitude': 10.4004154}",2025-01-01 16:44:38+00:00
-"['Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7163632, 'longitude': 10.3714784}",2025-02-06 11:51:41+00:00
-['Litter'],"{'latitude': 43.7318477, 'longitude': 10.4059222}",2025-01-21 23:56:12+00:00
-['Dead Animals'],"{'latitude': 43.7242013, 'longitude': 10.3915379}",2024-12-15 13:19:35+00:00
-['Cracked Pavement'],"{'latitude': 43.7224566, 'longitude': 10.3887521}",2024-12-26 08:22:16+00:00
-['Cracked Pavement'],"{'latitude': 43.7214468, 'longitude': 10.3969947}",2025-02-03 15:24:17+00:00
-['Litter'],"{'latitude': 43.7290909, 'longitude': 10.3998018}",2025-01-11 10:17:34+00:00
-['Neglected Monuments'],"{'latitude': 43.7212569, 'longitude': 10.3850584}",2025-01-15 23:19:52+00:00
-"['Damaged Bench', 'Cracked Pavement']","{'latitude': 43.7241053, 'longitude': 10.3927808}",2025-02-07 08:33:12+00:00
-['Broken Streetlight'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-24 10:20:12+00:00
-['Vandalism'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-04 21:51:22+00:00
-['Cracked Pavement'],"{'latitude': 43.722392, 'longitude': 10.3961277}",2025-01-20 22:18:05+00:00
-"['Animal Menace', 'Open Manholes']","{'latitude': 43.7238976, 'longitude': 10.3911456}",2025-01-15 13:44:30+00:00
-['Cracked Pavement'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-11 17:31:41+00:00
-['Litter'],"{'latitude': 43.7318403, 'longitude': 10.4060167}",2025-02-07 21:59:26.114000+00:00
-['Blocked Drainage'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2024-12-15 15:41:58+00:00
-['Cracked Pavement'],"{'latitude': 43.7199059, 'longitude': 10.4003545}",2024-12-05 16:56:20+00:00
-['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-23 19:27:21+00:00
-"['Illegal Dumping', 'Pothole', 'Unsafe Bridge', 'Neglected Monuments']","{'latitude': 43.8629916, 'longitude': 10.3565012}",2024-12-21 21:26:51+00:00
-['Cracked Pavement'],"{'latitude': 43.7224994, 'longitude': 10.3956022}",2025-01-26 22:33:06+00:00
-['Graffiti'],"{'latitude': 43.7318923, 'longitude': 10.405845}",2025-01-28 12:15:16+00:00
-['Faded Paint'],"{'latitude': 37.4219983, 'longitude': -122.084}",2025-01-07 19:59:03+00:00
-"['Cracked Pavement', 'Blocked Drainage']","{'latitude': 43.7227824, 'longitude': 10.389384}",2025-01-27 10:04:59+00:00
-['Damaged Bench'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2025-01-24 07:00:01+00:00
-['Pothole'],"{'latitude': 43.7219762, 'longitude': 10.3991566}",2025-01-27 21:35:34+00:00
-['Litter'],"{'latitude': 43.7185037, 'longitude': 10.9463781}",2025-01-09 20:30:46+00:00
-"['Cracked Pavement', 'Pothole']","{'latitude': 43.722455, 'longitude': 10.3958593}",2025-01-10 08:10:26+00:00
-['Illegal Dumping'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2025-01-11 14:15:41+00:00
-['Water Pollution'],"{'latitude': 43.7318429, 'longitude': 10.4060283}",2025-02-07 22:01:11.348000+00:00
-['Animal Menace'],"{'latitude': 43.7318475, 'longitude': 10.4060392}",2024-12-31 22:55:41+00:00
-['Litter'],"{'latitude': 43.7318451, 'longitude': 10.4060159}",2025-02-06 13:20:05+00:00
-['Cracked Pavement'],"{'latitude': 43.7226255, 'longitude': 10.391966}",2024-12-27 12:13:35+00:00
-['Cracked Pavement'],"{'latitude': 43.722747, 'longitude': 10.3926037}",2025-01-09 19:35:22+00:00
-['Litter'],"{'latitude': 43.7319058, 'longitude': 10.4059213}",2025-01-06 08:35:29+00:00
-['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-01 21:54:38+00:00
-['Cracked Pavement'],"{'latitude': 43.7208212, 'longitude': 10.4003794}",2024-12-02 19:48:00+00:00
-['Vandalism'],"{'latitude': 43.7318887, 'longitude': 10.4058092}",2024-12-02 13:31:39+00:00
-['Graffiti'],"{'latitude': 43.7164069, 'longitude': 10.3715378}",2024-12-28 13:36:54+00:00
-['Graffiti'],"{'latitude': 43.7199157, 'longitude': 10.3986466}",2025-01-25 11:19:12+00:00
-['Faded Paint'],"{'latitude': 43.720026, 'longitude': 10.3999438}",2025-02-02 07:17:42+00:00
-['Cracked Pavement'],"{'latitude': 43.7227522, 'longitude': 10.3926139}",2024-12-04 18:27:02+00:00
-['Cracked Pavement'],"{'latitude': 43.7228473, 'longitude': 10.3895416}",2025-01-29 16:20:31+00:00
-['Unsafe Building'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2025-01-04 13:54:24+00:00
-['Pothole'],"{'latitude': 43.7219929, 'longitude': 10.3988252}",2024-12-28 20:26:13+00:00
-['Litter'],"{'latitude': 43.7163802, 'longitude': 10.3716494}",2024-12-11 13:27:31+00:00
-['Graffiti'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2025-01-08 13:50:53+00:00
-['Graffiti'],"{'latitude': 43.7207896, 'longitude': 10.3879045}",2025-01-07 18:41:03+00:00
-['Litter'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-13 11:24:26+00:00
-"['Illegal Dumping', 'Animal Menace']","{'latitude': 43.7243317, 'longitude': 10.3916231}",2025-02-04 15:48:58+00:00
-['Graffiti'],"{'latitude': 43.719982, 'longitude': 10.3973299}",2024-12-27 12:10:09+00:00
-['Air Pollution'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-31 08:13:57+00:00
-['Pothole'],"{'latitude': 43.7223675, 'longitude': 10.3920735}",2025-01-09 23:31:42+00:00
-['Cracked Pavement'],"{'latitude': 43.7225968, 'longitude': 10.3950511}",2024-12-27 14:00:34+00:00
-['Cracked Pavement'],"{'latitude': 43.7228148, 'longitude': 10.3924772}",2025-01-07 19:35:42+00:00
-['Dead Animals'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-31 08:24:59+00:00
-['Pothole'],"{'latitude': 43.7217213, 'longitude': 10.3897917}",2024-12-14 09:37:05+00:00
-['Graffiti'],"{'latitude': 43.7209549, 'longitude': 10.3879335}",2025-01-11 12:01:37+00:00
-['Cracked Pavement'],"{'latitude': 43.7247943, 'longitude': 10.3917277}",2024-12-30 12:16:52+00:00
-['Unsafe Bridge'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2025-01-04 13:49:50+00:00
-['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-02-02 09:47:33+00:00
-['Pothole'],"{'latitude': 43.7219817, 'longitude': 10.3883697}",2024-12-29 10:24:20+00:00
-['Litter'],"{'latitude': 43.7318475, 'longitude': 10.4060392}",2024-12-06 13:21:10+00:00
-['Graffiti'],"{'latitude': 43.7227831, 'longitude': 10.3913238}",2024-12-26 12:42:54+00:00
-['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-22 17:50:23+00:00
-['Vandalism'],"{'latitude': 43.7164046, 'longitude': 10.3716079}",2025-01-30 22:17:34+00:00
-['Cracked Pavement'],"{'latitude': 43.7228403, 'longitude': 10.3895757}",2024-12-21 19:00:44+00:00
-['Overgrown Vegetation'],"{'latitude': 43.7227591, 'longitude': 10.3915425}",2024-12-01 23:50:36+00:00
-['Graffiti'],"{'latitude': 43.7216659, 'longitude': 10.3882552}",2025-01-09 10:00:31+00:00
-['Vandalism'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-02-06 18:59:19+00:00
-['Cracked Pavement'],"{'latitude': 43.7213264, 'longitude': 10.3917944}",2025-01-20 14:00:06+00:00
-['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-08 17:24:48+00:00
-['Overgrown Vegetation'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2024-12-20 07:53:04+00:00
-['Cracked Pavement'],"{'latitude': 43.7197832, 'longitude': 10.4003589}",2024-12-27 23:41:32+00:00
-['Overgrown Vegetation'],"{'latitude': 43.7228273, 'longitude': 10.3904704}",2024-12-21 23:16:07+00:00
-['Pothole'],"{'latitude': 43.7222148, 'longitude': 10.3920789}",2025-02-02 16:08:50+00:00
-['Graffiti'],"{'latitude': 43.7213022, 'longitude': 10.4004075}",2024-12-12 11:37:45+00:00
-['Pothole'],"{'latitude': 43.722669, 'longitude': 10.3943311}",2024-12-16 09:17:39+00:00
-['Cracked Pavement'],"{'latitude': 43.7224835, 'longitude': 10.3967785}",2024-12-25 14:32:09+00:00
-['Blocked Drainage'],"{'latitude': 43.7225686, 'longitude': 10.388912}",2025-01-28 09:14:10+00:00
-['Pothole'],"{'latitude': 43.7224929, 'longitude': 10.395058}",2024-12-09 10:49:18+00:00
-['Unsafe Building'],"{'latitude': 43.7320232, 'longitude': 10.4058342}",2025-02-07 21:35:47.028000+00:00
-['Graffiti'],"{'latitude': 43.7241053, 'longitude': 10.3927808}",2025-01-07 09:28:31+00:00
-['Vandalism'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2025-01-07 22:36:06+00:00
-['Vandalism'],"{'latitude': 43.7318469, 'longitude': 10.4059642}",2024-12-29 17:32:38+00:00
-['Cracked Pavement'],"{'latitude': 43.7226652, 'longitude': 10.3975526}",2024-12-06 11:38:58+00:00
-['Vandalism'],"{'latitude': 43.7164049, 'longitude': 10.3715649}",2024-12-19 23:07:01+00:00
-['Litter'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2025-01-19 10:00:07+00:00
-['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-05 17:48:48+00:00
-['Cracked Pavement'],"{'latitude': 43.7223136, 'longitude': 10.397927}",2024-12-26 12:38:33+00:00
-['Graffiti'],"{'latitude': 43.7199574, 'longitude': 10.3998894}",2024-12-31 18:23:41+00:00
-['Graffiti'],"{'latitude': 43.7216927, 'longitude': 10.3881425}",2025-02-01 10:05:06+00:00
-['Cracked Pavement'],"{'latitude': 43.7277384, 'longitude': 10.3983975}",2024-12-22 18:37:46+00:00
-['Cracked Pavement'],"{'latitude': 43.7228134, 'longitude': 10.3894574}",2025-02-06 17:51:48+00:00
-['Graffiti'],"{'latitude': 43.7218504, 'longitude': 10.3881764}",2024-12-25 11:04:27+00:00
-['Cracked Pavement'],"{'latitude': 43.7164082, 'longitude': 10.3714364}",2025-01-17 15:54:53+00:00
-['Neglected Monuments'],"{'latitude': 43.7195897, 'longitude': 10.3999125}",2024-12-31 11:55:35+00:00
-['Litter'],"{'latitude': 43.7227653, 'longitude': 10.3917425}",2025-01-12 13:12:52+00:00
-['Litter'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2025-01-12 20:49:47+00:00
-['Litter'],"{'latitude': 43.731845, 'longitude': 10.4060441}",2024-12-06 07:28:07+00:00
-['Litter'],"{'latitude': 43.7318434, 'longitude': 10.4059869}",2025-02-07 22:22:45.331000+00:00
-['Graffiti'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-01 12:57:04+00:00
-['Graffiti'],"{'latitude': 43.7196167, 'longitude': 10.4001356}",2024-12-21 10:58:34+00:00
-['Cracked Pavement'],"{'latitude': 43.7224748, 'longitude': 10.3977871}",2025-01-30 13:20:50+00:00
-['Cracked Pavement'],"{'latitude': 43.7223825, 'longitude': 10.3961468}",2025-02-06 08:55:58+00:00
-['Neglected Monuments'],"{'latitude': 43.7247943, 'longitude': 10.3917277}",2025-01-15 08:46:33+00:00
-['Cracked Pavement'],"{'latitude': 43.7224915, 'longitude': 10.3950606}",2025-01-28 16:02:52+00:00
-['Cracked Pavement'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-12-28 17:46:19+00:00
-"['Litter', 'Cracked Pavement', 'Vandalism', 'Open Manholes', 'Dead Animals']","{'latitude': 43.8883473, 'longitude': 10.2448432}",2024-12-15 15:22:59+00:00
-"['Graffiti', 'Litter', 'Illegal Dumping']","{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-15 08:40:56+00:00
-['Graffiti'],"{'latitude': 43.7200658, 'longitude': 10.3972867}",2024-12-21 22:36:56+00:00
-['Faded Paint'],"{'latitude': 43.7199059, 'longitude': 10.3981657}",2024-12-07 16:32:39+00:00
-['Vandalism'],"{'latitude': 43.7250631, 'longitude': 10.3903871}",2024-12-28 14:05:36+00:00
-['Faded Paint'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2024-12-17 19:18:23+00:00
-['Graffiti'],"{'latitude': 43.7214863, 'longitude': 10.3881794}",2025-01-01 09:43:42+00:00
-['Litter'],"{'latitude': 43.725873, 'longitude': 10.3911084}",2024-12-23 10:11:44+00:00
-['Faded Paint'],"{'latitude': 43.7196235, 'longitude': 10.3995101}",2025-01-10 08:01:26+00:00
-['Cracked Pavement'],"{'latitude': 43.7228187, 'longitude': 10.3894741}",2024-12-28 08:08:25+00:00
-['Cracked Pavement'],"{'latitude': 43.722358, 'longitude': 10.3964001}",2024-12-29 16:07:26+00:00
-['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-02-07 16:25:15+00:00
-['Graffiti'],"{'latitude': 43.72183, 'longitude': 10.3881685}",2025-02-03 22:13:26+00:00
-['Cracked Pavement'],"{'latitude': 43.7197744, 'longitude': 10.4002316}",2024-12-09 23:52:11+00:00
-['Pothole'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-22 23:14:04+00:00
-['Unsafe Building'],"{'latitude': 43.7238073, 'longitude': 10.4022266}",2025-02-05 13:09:35+00:00
-['Litter'],"{'latitude': 43.7226813, 'longitude': 10.3943201}",2025-01-16 15:47:10+00:00
-['Cracked Pavement'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2024-12-04 21:02:01+00:00
-['Cracked Pavement'],"{'latitude': 43.7264433, 'longitude': 10.3931319}",2024-12-16 20:51:03+00:00
-['Air Pollution'],"{'latitude': 43.7163849, 'longitude': 10.3714598}",2025-01-21 16:00:11+00:00
-['Litter'],"{'latitude': 43.7164, 'longitude': 10.3715343}",2025-02-01 17:47:30+00:00
-['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-18 09:20:51+00:00
-['Graffiti'],"{'latitude': 43.72007, 'longitude': 10.3973472}",2024-12-29 19:16:26+00:00
-['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-02-06 21:47:48+00:00
-"['Litter', 'Open Manholes', 'Animal Menace', 'Faded Paint']","{'latitude': 43.7240153, 'longitude': 10.39191}",2025-01-06 07:19:24+00:00
-['Pothole'],"{'latitude': 43.7219451, 'longitude': 10.3894261}",2024-12-11 18:46:45+00:00
-"['Cracked Pavement', 'Damaged Bench']","{'latitude': 43.7257112, 'longitude': 10.3914589}",2024-12-25 09:38:21+00:00
-['Vandalism'],"{'latitude': 43.7318443, 'longitude': 10.4060326}",2025-01-24 16:54:04+00:00
-['Cracked Pavement'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2025-01-09 18:04:54+00:00
-['Litter'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-01 18:16:11+00:00
-['Cracked Pavement'],"{'latitude': 43.7318937, 'longitude': 10.4059068}",2024-12-07 13:29:46+00:00
-['Vandalism'],"{'latitude': 43.7318473, 'longitude': 10.406004}",2025-01-23 20:51:34+00:00
-['Graffiti'],"{'latitude': 43.7198921, 'longitude': 10.3979779}",2024-12-23 21:03:43+00:00
-['Graffiti'],"{'latitude': 43.7215624, 'longitude': 10.3881245}",2025-01-17 22:20:35+00:00
-['Vandalism'],"{'latitude': 43.7319557, 'longitude': 10.4058304}",2024-12-24 07:01:01+00:00
-"['Pothole', 'Cracked Pavement']","{'latitude': 43.7225218, 'longitude': 10.3950567}",2024-12-03 21:59:50+00:00
-['Neglected Monuments'],"{'latitude': 43.7212569, 'longitude': 10.3850584}",2025-01-06 14:27:59+00:00
-['Animal Menace'],"{'latitude': 43.7241439, 'longitude': 10.3918215}",2025-01-04 18:28:24+00:00
-['Abandoned Vehicle'],"{'latitude': 43.7238147, 'longitude': 10.3978816}",2025-02-03 22:15:37+00:00
-['Cracked Pavement'],"{'latitude': 43.7248264, 'longitude': 10.3913767}",2024-12-25 13:06:39+00:00
-['Cracked Pavement'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-03 12:17:56+00:00
-['Broken Streetlight'],"{'latitude': 43.7256785, 'longitude': 10.3908761}",2024-12-28 08:38:20+00:00
-['Vandalism'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2025-01-28 15:46:42+00:00
-['Neglected Monuments'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-12-09 12:50:14+00:00
-['Graffiti'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-12-14 16:58:00+00:00
-[],"{'latitude': 43.7319115, 'longitude': 10.4059205}",2024-12-16 12:18:56+00:00
-['Cracked Pavement'],"{'latitude': 43.7211997, 'longitude': 10.3971438}",2025-01-16 09:56:33+00:00
-['Litter'],"{'latitude': 43.7333735, 'longitude': 10.4015571}",2025-01-28 10:32:54+00:00
-['Graffiti'],"{'latitude': 43.7218001, 'longitude': 10.3881572}",2024-12-27 07:30:15+00:00
-['Overgrown Vegetation'],"{'latitude': 43.7229949, 'longitude': 10.3899522}",2024-12-17 17:38:57+00:00
-['Dead Animals'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2025-02-04 08:18:55+00:00
-['Cracked Pavement'],"{'latitude': 43.7224215, 'longitude': 10.3969367}",2025-02-03 13:16:35+00:00
-['Vandalism'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-20 23:05:45+00:00
-['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-14 20:28:03+00:00
-['Animal Menace'],"{'latitude': 43.7226783, 'longitude': 10.3975367}",2024-12-12 10:54:10+00:00
-['Graffiti'],"{'latitude': 43.720195, 'longitude': 10.3971896}",2025-01-14 12:28:39+00:00
-['Cracked Pavement'],"{'latitude': 43.7212689, 'longitude': 10.3909596}",2024-12-11 15:46:15+00:00
-['Blocked Drainage'],"{'latitude': 43.7218878, 'longitude': 10.3919021}",2024-12-26 17:47:12+00:00
-['Graffiti'],"{'latitude': 43.7319891, 'longitude': 10.4058091}",2025-01-02 18:43:33+00:00
-['Dead Animals'],"{'latitude': 43.73185, 'longitude': 10.4059573}",2025-01-17 10:11:53+00:00
-['Blocked Drainage'],"{'latitude': 43.7228481, 'longitude': 10.3926366}",2025-01-28 11:29:23+00:00
-['Neglected Monuments'],"{'latitude': 43.7236482, 'longitude': 10.394536}",2025-01-03 20:16:40+00:00
-['Vandalism'],"{'latitude': 43.7318477, 'longitude': 10.4059222}",2025-01-03 11:29:16+00:00
-"['Litter', 'Unsafe Bridge', 'Graffiti']","{'latitude': 43.7209372, 'longitude': 10.3884053}",2024-12-12 12:24:42+00:00
-['Faded Paint'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2025-01-06 17:28:36+00:00
-['Pothole'],"{'latitude': 43.7228203, 'longitude': 10.3924801}",2024-12-20 09:49:47+00:00
-['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-09 19:13:12+00:00
-['Air Pollution'],"{'latitude': 43.7319419, 'longitude': 10.405899}",2024-12-20 07:07:37+00:00
-['Graffiti'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-24 16:07:03+00:00
-['Broken Streetlight'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-12-24 14:55:19+00:00
-['Water Pollution'],"{'latitude': 43.7210248, 'longitude': 10.3843564}",2025-01-15 20:47:32+00:00
+['Cracked Pavement'],"{'latitude': 43.7198062, 'longitude': 10.4003322}",2025-01-09 19:26:00+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7220323, 'longitude': 10.3886623}",2024-12-07 07:54:08+00:00
+"['Graffiti', 'Vandalism']","{'latitude': 43.7117768, 'longitude': 10.4076807}",2024-10-06 21:31:34+00:00
+['Dead Animals'],"{'latitude': 43.7318424, 'longitude': 10.4059703}",2025-01-08 07:18:44+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7202389, 'longitude': 10.4034925}",2024-12-03 07:21:50+00:00
+['Cracked Pavement'],"{'latitude': 43.7225023, 'longitude': 10.395594}",2024-12-29 15:41:09+00:00
+"['Overgrown Vegetation', 'Pothole', 'Litter']","{'latitude': 43.7271587, 'longitude': 10.4046429}",2024-12-05 12:39:20+00:00
+['Pothole'],"{'latitude': 43.7213003, 'longitude': 10.4004154}",2024-10-20 18:09:41+00:00
+"['Cracked Pavement', 'Graffiti', 'Animal Menace']","{'latitude': 43.7161287, 'longitude': 10.4058994}",2025-02-03 14:30:11+00:00
+['Neglected Monuments'],"{'latitude': 43.7167297, 'longitude': 10.4089965}",2024-12-31 12:20:40+00:00
+"['Overgrown Vegetation', 'Air Pollution']","{'latitude': 43.7168006, 'longitude': 10.4092131}",2024-11-09 21:49:30+00:00
+['Litter'],"{'latitude': 43.731847, 'longitude': 10.4060219}",2024-12-08 22:06:46+00:00
+"['Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7163632, 'longitude': 10.3714784}",2024-12-31 13:16:05+00:00
+['Litter'],"{'latitude': 43.7318477, 'longitude': 10.4059222}",2025-02-04 17:03:47+00:00
+['Dead Animals'],"{'latitude': 43.7242013, 'longitude': 10.3915379}",2025-01-03 16:43:48+00:00
+['Cracked Pavement'],"{'latitude': 43.7224566, 'longitude': 10.3887521}",2024-10-24 07:23:10+00:00
+['Cracked Pavement'],"{'latitude': 43.7214468, 'longitude': 10.3969947}",2024-10-01 13:20:15+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7219278, 'longitude': 10.4053528}",2024-11-24 09:26:55+00:00
+['Litter'],"{'latitude': 43.7290909, 'longitude': 10.3998018}",2025-02-02 18:13:05+00:00
+['Neglected Monuments'],"{'latitude': 43.7212569, 'longitude': 10.3850584}",2024-12-13 17:18:37+00:00
+"['Pothole', 'Cracked Pavement', 'Faded Paint']","{'latitude': 43.719816, 'longitude': 10.4040449}",2024-10-08 08:26:39+00:00
+"['Damaged Bench', 'Cracked Pavement']","{'latitude': 43.7241053, 'longitude': 10.3927808}",2025-01-11 13:11:29+00:00
+['Broken Streetlight'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-03 08:06:13+00:00
+"['Cracked Pavement', 'Neglected Monuments', 'Unsafe Building']","{'latitude': 43.7195009, 'longitude': 10.4083734}",2024-12-19 18:13:23+00:00
+['Vandalism'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-11-16 16:41:13+00:00
+"['Unsafe Building', 'Neglected Monuments']","{'latitude': 43.7208253, 'longitude': 10.4162917}",2024-12-16 22:04:37+00:00
+['Cracked Pavement'],"{'latitude': 43.722392, 'longitude': 10.3961277}",2025-02-06 23:51:48+00:00
+"['Animal Menace', 'Open Manholes']","{'latitude': 43.7238976, 'longitude': 10.3911456}",2024-11-05 15:11:42+00:00
+"['Faded Paint', 'Cracked Pavement', 'Damaged Bench']","{'latitude': 43.7185303, 'longitude': 10.4020077}",2025-01-13 18:35:58+00:00
+['Cracked Pavement'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-23 23:40:30+00:00
+['Litter'],"{'latitude': 43.7318403, 'longitude': 10.4060167}",2024-11-25 09:53:22+00:00
+"['Neglected Monuments', 'Pothole']","{'latitude': 43.7112429, 'longitude': 10.4067891}",2025-01-22 22:33:27+00:00
+['Blocked Drainage'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2024-11-14 07:13:08+00:00
+['Cracked Pavement'],"{'latitude': 43.7199059, 'longitude': 10.4003545}",2024-12-11 17:45:31+00:00
+['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2025-01-16 18:03:41+00:00
+"['Graffiti', 'Faded Paint', 'Vandalism']","{'latitude': 43.724443, 'longitude': 10.4097238}",2024-11-16 08:44:28+00:00
+"['Illegal Dumping', 'Pothole', 'Unsafe Bridge', 'Neglected Monuments']","{'latitude': 43.8629916, 'longitude': 10.3565012}",2025-01-06 23:22:53+00:00
+['Cracked Pavement'],"{'latitude': 43.7224994, 'longitude': 10.3956022}",2024-12-07 17:46:13+00:00
+"['Unsafe Building', 'Damaged Bench', 'Neglected Monuments']","{'latitude': 43.7183409, 'longitude': 10.4055044}",2024-12-27 11:33:47+00:00
+"['Graffiti', 'Unsafe Building']","{'latitude': 43.7248411, 'longitude': 10.4049888}",2024-10-09 23:50:20+00:00
+['Illegal Dumping'],"{'latitude': 43.7319017, 'longitude': 10.4059304}",2025-02-07 07:12:50+00:00
+['Graffiti'],"{'latitude': 43.7318923, 'longitude': 10.405845}",2025-01-05 18:08:28+00:00
+['Faded Paint'],"{'latitude': 37.4219983, 'longitude': -122.084}",2025-01-19 16:22:38+00:00
+"['Cracked Pavement', 'Blocked Drainage']","{'latitude': 43.7227824, 'longitude': 10.389384}",2024-12-03 15:48:03+00:00
+"['Overgrown Vegetation', 'Litter', 'Cracked Pavement', 'Vandalism']","{'latitude': 43.7158098, 'longitude': 10.4062345}",2024-10-03 10:27:39+00:00
+['Damaged Bench'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2024-11-29 19:53:21+00:00
+['Pothole'],"{'latitude': 43.7219762, 'longitude': 10.3991566}",2025-02-02 16:24:06+00:00
+['Litter'],"{'latitude': 43.7185037, 'longitude': 10.9463781}",2024-11-08 20:58:16+00:00
+"['Cracked Pavement', 'Pothole']","{'latitude': 43.722455, 'longitude': 10.3958593}",2024-10-20 12:00:27+00:00
+"['Litter', 'Pothole', 'Cracked Pavement', 'Neglected Monuments']","{'latitude': 43.7193676, 'longitude': 10.4128757}",2024-12-15 21:13:43+00:00
+['Litter'],"{'latitude': 43.7318927, 'longitude': 10.4058855}",2024-10-02 16:27:49+00:00
+"['Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7216827, 'longitude': 10.4131566}",2024-12-21 15:32:57+00:00
+['Illegal Dumping'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2025-02-05 23:21:58+00:00
+['Neglected Monuments'],"{'latitude': 43.7117245, 'longitude': 10.4074192}",2024-10-27 17:57:06+00:00
+['Water Pollution'],"{'latitude': 43.7318429, 'longitude': 10.4060283}",2024-12-26 13:23:27+00:00
+"['Damaged Bench', 'Graffiti']","{'latitude': 43.7194787, 'longitude': 10.4138093}",2025-01-19 17:37:39+00:00
+['Animal Menace'],"{'latitude': 43.7318475, 'longitude': 10.4060392}",2024-10-30 10:43:40+00:00
+['Graffiti'],"{'latitude': 43.7137028, 'longitude': 10.4025983}",2025-01-11 10:02:50+00:00
+['Litter'],"{'latitude': 43.7318461, 'longitude': 10.4060167}",2024-11-17 20:07:18+00:00
+['Litter'],"{'latitude': 43.7318451, 'longitude': 10.4060159}",2025-02-05 17:51:51+00:00
+['Cracked Pavement'],"{'latitude': 43.7226255, 'longitude': 10.391966}",2025-01-14 13:40:08+00:00
+"['Cracked Pavement', 'Unsafe Building', 'Neglected Monuments']","{'latitude': 43.720562, 'longitude': 10.4096416}",2024-11-30 21:19:16+00:00
+['Cracked Pavement'],"{'latitude': 43.722747, 'longitude': 10.3926037}",2024-11-24 09:46:55+00:00
+['Litter'],"{'latitude': 43.7319058, 'longitude': 10.4059213}",2024-10-02 12:53:02+00:00
+['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-09 09:39:56+00:00
+"['Litter', 'Illegal Dumping', 'Overgrown Vegetation']","{'latitude': 43.7165774, 'longitude': 10.4089544}",2024-12-26 18:33:40+00:00
+['Cracked Pavement'],"{'latitude': 43.7208212, 'longitude': 10.4003794}",2024-12-15 07:31:15+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Unsafe Building']","{'latitude': 43.7161287, 'longitude': 10.4058994}",2025-01-10 09:14:22+00:00
+['Vandalism'],"{'latitude': 43.7318887, 'longitude': 10.4058092}",2024-11-14 17:24:13+00:00
+"['Neglected Monuments', 'Unsafe Building', 'Illegal Dumping']","{'latitude': 43.7144416, 'longitude': 10.407242}",2025-01-13 09:05:24+00:00
+['Graffiti'],"{'latitude': 43.7164069, 'longitude': 10.3715378}",2024-10-29 17:43:29+00:00
+"['Neglected Monuments', 'Litter', 'Damaged Bench']","{'latitude': 43.7166568, 'longitude': 10.4090702}",2025-01-09 07:06:34+00:00
+['Graffiti'],"{'latitude': 43.7199157, 'longitude': 10.3986466}",2024-12-26 23:06:19+00:00
+['Faded Paint'],"{'latitude': 43.720026, 'longitude': 10.3999438}",2025-01-24 14:33:51+00:00
+['Cracked Pavement'],"{'latitude': 43.7227522, 'longitude': 10.3926139}",2024-11-12 22:24:07+00:00
+['Cracked Pavement'],"{'latitude': 43.7228473, 'longitude': 10.3895416}",2024-12-01 12:43:36+00:00
+['Unsafe Building'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2025-01-31 22:40:37+00:00
+['Pothole'],"{'latitude': 43.7219929, 'longitude': 10.3988252}",2024-11-05 08:52:47+00:00
+"['Litter', 'Damaged Bench', 'Cracked Pavement', 'Vandalism', 'Overgrown Vegetation', 'Dead Animals']","{'latitude': 43.720375, 'longitude': 10.3882175}",2025-02-10 12:02:54.229000+00:00
+"['Cracked Pavement', 'Graffiti']","{'latitude': 43.7135321, 'longitude': 10.404532}",2024-12-04 21:51:43+00:00
+['Litter'],"{'latitude': 43.7163802, 'longitude': 10.3716494}",2024-12-13 11:43:31+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7190754, 'longitude': 10.4120898}",2025-02-02 11:44:43+00:00
+['Graffiti'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2024-12-24 23:15:37+00:00
+['Graffiti'],"{'latitude': 43.7207896, 'longitude': 10.3879045}",2024-10-12 12:23:17+00:00
+['Graffiti'],"{'latitude': 43.7307654, 'longitude': 10.407356}",2024-12-27 15:13:44+00:00
+"['Cracked Pavement', 'Litter', 'Overgrown Vegetation']","{'latitude': 43.7245411, 'longitude': 10.4084067}",2024-10-24 23:49:43+00:00
+['Litter'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-31 19:16:41+00:00
+"['Neglected Monuments', 'Air Pollution']","{'latitude': 43.7202543, 'longitude': 10.4039731}",2024-11-10 18:30:49+00:00
+"['Illegal Dumping', 'Animal Menace']","{'latitude': 43.7243317, 'longitude': 10.3916231}",2025-01-23 12:27:38+00:00
+['Graffiti'],"{'latitude': 43.719982, 'longitude': 10.3973299}",2025-01-03 11:05:00+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Vandalism']","{'latitude': 43.7166998, 'longitude': 10.4088835}",2024-10-07 08:00:28+00:00
+"['Unsafe Building', 'Faded Paint']","{'latitude': 43.7245312, 'longitude': 10.4075255}",2024-10-20 22:11:53+00:00
+['Air Pollution'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-10-18 07:51:47+00:00
+['Pothole'],"{'latitude': 43.7223675, 'longitude': 10.3920735}",2024-10-13 17:55:37+00:00
+['Cracked Pavement'],"{'latitude': 43.7225968, 'longitude': 10.3950511}",2024-12-31 10:01:33+00:00
+['Cracked Pavement'],"{'latitude': 43.7228148, 'longitude': 10.3924772}",2024-11-01 11:09:19+00:00
+['Graffiti'],"{'latitude': 43.7306232, 'longitude': 10.4070819}",2024-10-04 21:43:44+00:00
+['Dead Animals'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-10-24 12:13:56+00:00
+"['Vandalism', 'Unsafe Building', 'Cracked Pavement', 'Litter', 'Graffiti']","{'latitude': 43.7137223, 'longitude': 10.4026103}",2025-01-04 22:04:52+00:00
+['Pothole'],"{'latitude': 43.7217213, 'longitude': 10.3897917}",2024-12-04 07:06:45+00:00
+['Graffiti'],"{'latitude': 43.7209549, 'longitude': 10.3879335}",2024-11-16 12:16:21+00:00
+['Cracked Pavement'],"{'latitude': 43.7247943, 'longitude': 10.3917277}",2025-01-11 22:51:03+00:00
+['Unsafe Bridge'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2024-12-02 23:16:42+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.7193676, 'longitude': 10.4128758}",2024-11-07 12:35:08+00:00
+['Graffiti'],"{'latitude': 43.7182519, 'longitude': 10.4043411}",2024-11-24 09:25:37+00:00
+['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-07 18:23:46+00:00
+"['Overgrown Vegetation', 'Air Pollution', 'Cracked Pavement']","{'latitude': 43.7194102, 'longitude': 10.4148987}",2024-12-03 18:35:37+00:00
+['Pothole'],"{'latitude': 43.7219817, 'longitude': 10.3883697}",2024-12-18 13:29:57+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7233162, 'longitude': 10.4087695}",2025-02-08 07:01:23+00:00
+['Litter'],"{'latitude': 43.7318475, 'longitude': 10.4060392}",2025-02-01 19:56:38+00:00
+['Graffiti'],"{'latitude': 43.7227831, 'longitude': 10.3913238}",2025-01-23 13:40:12+00:00
+"['Overgrown Vegetation', 'Dead Animals', 'Animal Menace']","{'latitude': 43.7205377, 'longitude': 10.4026103}",2024-12-06 22:44:10+00:00
+['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-11-01 14:34:57+00:00
+['Vandalism'],"{'latitude': 43.7164046, 'longitude': 10.3716079}",2024-10-17 09:43:51+00:00
+['Cracked Pavement'],"{'latitude': 43.7228403, 'longitude': 10.3895757}",2024-10-19 14:07:56+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7227591, 'longitude': 10.3915425}",2024-10-04 15:28:26+00:00
+['Graffiti'],"{'latitude': 43.7216659, 'longitude': 10.3882552}",2025-01-12 22:50:50+00:00
+['Vandalism'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-11-13 19:58:42+00:00
+['Cracked Pavement'],"{'latitude': 43.7213264, 'longitude': 10.3917944}",2024-11-10 19:59:59+00:00
+['Litter'],"{'latitude': 43.7319165, 'longitude': 10.4058775}",2025-02-01 14:58:44+00:00
+['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-10-23 12:37:50+00:00
+"['Neglected Monuments', 'Pothole']","{'latitude': 43.7218732, 'longitude': 10.4042115}",2024-12-05 21:43:51+00:00
+['Dead Animals'],"{'latitude': 43.7318526, 'longitude': 10.4059389}",2024-12-30 10:09:24+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2025-01-07 10:10:55+00:00
+"['Cracked Pavement', 'Unsafe Building', 'Neglected Monuments']","{'latitude': 43.7183413, 'longitude': 10.4055092}",2025-02-02 17:59:53+00:00
+['Litter'],"{'latitude': 43.7318861, 'longitude': 10.4059176}",2024-12-26 14:18:10+00:00
+"['Overgrown Vegetation', 'Cracked Pavement', 'Litter']","{'latitude': 43.7271598, 'longitude': 10.4046934}",2024-12-10 12:52:30+00:00
+"['Broken Streetlight', 'Unsafe Building', 'Neglected Monuments']","{'latitude': 43.720758, 'longitude': 10.4154656}",2025-01-18 09:02:36+00:00
+"['Dead Animals', 'Animal Menace', 'Graffiti']","{'latitude': 43.7199142, 'longitude': 10.4036673}",2024-10-16 14:53:57+00:00
+"['Cracked Pavement', 'Broken Streetlight', 'Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7200532, 'longitude': 10.4040074}",2024-12-07 07:56:27+00:00
+"['Overgrown Vegetation', 'Damaged Bench', 'Vandalism']","{'latitude': 43.7209114, 'longitude': 10.4038252}",2024-11-25 14:42:58+00:00
+"['Cracked Pavement', 'Vandalism', 'Neglected Monuments', 'Animal Menace']","{'latitude': 43.7137223, 'longitude': 10.4026103}",2024-11-15 16:43:15+00:00
+"['Overgrown Vegetation', 'Unsafe Building']","{'latitude': 43.7194967, 'longitude': 10.413037}",2024-10-18 08:23:58+00:00
+"['Unsafe Building', 'Damaged Bench', 'Neglected Monuments']","{'latitude': 43.7159446, 'longitude': 10.4044167}",2025-02-04 09:31:41+00:00
+['Cracked Pavement'],"{'latitude': 43.7197832, 'longitude': 10.4003589}",2024-12-10 14:48:13+00:00
+"['Overgrown Vegetation', 'Animal Menace']","{'latitude': 43.72717, 'longitude': 10.4046945}",2024-11-29 15:03:42+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7228273, 'longitude': 10.3904704}",2024-12-05 21:29:59+00:00
+['Pothole'],"{'latitude': 43.7222148, 'longitude': 10.3920789}",2024-10-28 11:23:01+00:00
+['Graffiti'],"{'latitude': 43.7213022, 'longitude': 10.4004075}",2025-01-08 10:21:33+00:00
+['Dead Animals'],"{'latitude': 43.7318536, 'longitude': 10.4058175}",2024-10-20 09:41:50+00:00
+['Pothole'],"{'latitude': 43.722669, 'longitude': 10.3943311}",2024-11-02 22:49:27+00:00
+['Cracked Pavement'],"{'latitude': 43.7224835, 'longitude': 10.3967785}",2024-10-01 10:01:35+00:00
+['Blocked Drainage'],"{'latitude': 43.7225686, 'longitude': 10.388912}",2024-11-14 19:29:22+00:00
+['Pothole'],"{'latitude': 43.7224929, 'longitude': 10.395058}",2024-11-21 15:01:07+00:00
+['Unsafe Building'],"{'latitude': 43.7320232, 'longitude': 10.4058342}",2025-02-08 12:43:02+00:00
+"['Graffiti', 'Pothole']","{'latitude': 43.7212101, 'longitude': 10.4141081}",2024-12-01 08:18:24+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.7318937, 'longitude': 10.4059606}",2025-01-04 14:35:00+00:00
+['Graffiti'],"{'latitude': 43.7241053, 'longitude': 10.3927808}",2024-12-28 22:14:15+00:00
+"['Neglected Monuments', 'Vandalism', 'Cracked Pavement']","{'latitude': 43.7173011, 'longitude': 10.407262}",2024-11-08 08:04:21+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7208251, 'longitude': 10.4162898}",2024-10-02 23:27:58+00:00
+['Vandalism'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-10-30 18:52:10+00:00
+['Litter'],"{'latitude': 43.7319018, 'longitude': 10.4059813}",2024-12-20 16:33:50+00:00
+['Vandalism'],"{'latitude': 43.7318469, 'longitude': 10.4059642}",2024-10-24 14:52:18+00:00
+['Neglected Monuments'],"{'latitude': 43.7182688, 'longitude': 10.4030053}",2024-10-11 09:37:21+00:00
+['Cracked Pavement'],"{'latitude': 43.7226652, 'longitude': 10.3975526}",2024-10-20 08:29:50+00:00
+"['Overgrown Vegetation', 'Vandalism']","{'latitude': 43.727124, 'longitude': 10.4046122}",2024-11-19 12:17:38+00:00
+['Vandalism'],"{'latitude': 43.7164049, 'longitude': 10.3715649}",2024-11-07 12:29:38+00:00
+"['Graffiti', 'Unsafe Building']","{'latitude': 43.7248411, 'longitude': 10.4049888}",2024-10-26 16:23:25+00:00
+['Litter'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-10-24 22:00:40+00:00
+['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-12-12 18:21:11+00:00
+['Faded Paint'],"{'latitude': 43.7158084, 'longitude': 10.4062361}",2024-11-05 17:15:20+00:00
+['Cracked Pavement'],"{'latitude': 43.7223136, 'longitude': 10.397927}",2024-12-06 22:52:31+00:00
+"['Overgrown Vegetation', 'Graffiti']","{'latitude': 43.7167523, 'longitude': 10.4090407}",2024-10-17 11:16:27+00:00
+['Graffiti'],"{'latitude': 43.7199574, 'longitude': 10.3998894}",2024-11-06 17:11:35+00:00
+['Graffiti'],"{'latitude': 43.7216927, 'longitude': 10.3881425}",2024-11-02 08:28:02+00:00
+"['Animal Menace', 'Overgrown Vegetation', 'Pothole']","{'latitude': 43.7140728, 'longitude': 10.401478}",2025-02-04 09:23:34+00:00
+['Cracked Pavement'],"{'latitude': 43.7277384, 'longitude': 10.3983975}",2024-10-08 21:06:21+00:00
+['Cracked Pavement'],"{'latitude': 43.7228134, 'longitude': 10.3894574}",2024-10-25 08:10:01+00:00
+['Graffiti'],"{'latitude': 43.7218504, 'longitude': 10.3881764}",2024-10-03 17:06:22+00:00
+"['Litter', 'Vandalism', 'Animal Menace', 'Overgrown Vegetation']","{'latitude': 43.7167616, 'longitude': 10.4090452}",2024-12-03 12:38:22+00:00
+['Graffiti'],"{'latitude': 43.7212888, 'longitude': 10.4130866}",2024-11-29 09:17:55+00:00
+['Cracked Pavement'],"{'latitude': 43.7164082, 'longitude': 10.3714364}",2024-12-17 09:33:12+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Illegal Dumping']","{'latitude': 43.7214894, 'longitude': 10.4140557}",2025-01-26 14:42:41+00:00
+['Neglected Monuments'],"{'latitude': 43.7195897, 'longitude': 10.3999125}",2024-12-16 21:24:32+00:00
+['Litter'],"{'latitude': 43.7227653, 'longitude': 10.3917425}",2025-01-17 08:58:59+00:00
+"['Blocked Drainage', 'Unsafe Bridge', 'Overgrown Vegetation']","{'latitude': 43.7114986, 'longitude': 10.4061426}",2024-12-07 20:46:39+00:00
+['Litter'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2024-12-26 09:02:30+00:00
+['Animal Menace'],"{'latitude': 43.7318429, 'longitude': 10.4060186}",2024-12-14 08:09:36+00:00
+['Litter'],"{'latitude': 43.731845, 'longitude': 10.4060441}",2025-02-08 12:43:04+00:00
+['Litter'],"{'latitude': 43.7318434, 'longitude': 10.4059869}",2024-11-23 21:28:53+00:00
+"['Overgrown Vegetation', 'Vandalism', 'Water Pollution']","{'latitude': 43.7118649, 'longitude': 10.4076353}",2025-02-03 15:45:52+00:00
+['Graffiti'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-11-16 08:49:34+00:00
+"['Neglected Monuments', 'Vandalism', 'Cracked Pavement']","{'latitude': 43.7161933, 'longitude': 10.404104}",2024-12-04 18:55:00+00:00
+['Graffiti'],"{'latitude': 43.7196167, 'longitude': 10.4001356}",2024-12-21 09:10:58+00:00
+['Cracked Pavement'],"{'latitude': 43.7224748, 'longitude': 10.3977871}",2025-01-13 19:28:14+00:00
+['Cracked Pavement'],"{'latitude': 43.7223825, 'longitude': 10.3961468}",2025-01-28 15:26:50+00:00
+['Neglected Monuments'],"{'latitude': 43.7247943, 'longitude': 10.3917277}",2024-11-16 22:53:59+00:00
+"['Neglected Monuments', 'Air Pollution']","{'latitude': 43.7158369, 'longitude': 10.4016921}",2024-12-24 12:27:16+00:00
+['Cracked Pavement'],"{'latitude': 43.7224915, 'longitude': 10.3950606}",2024-11-01 13:25:43+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7114989, 'longitude': 10.4071883}",2024-10-19 15:52:28+00:00
+['Cracked Pavement'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2025-01-14 15:18:59+00:00
+['Graffiti'],"{'latitude': 43.73161, 'longitude': 10.4075634}",2024-10-06 21:39:03+00:00
+"['Damaged Bench', 'Broken Streetlight', 'Overgrown Vegetation']","{'latitude': 43.7212084, 'longitude': 10.4141084}",2025-01-09 08:53:14+00:00
+"['Litter', 'Cracked Pavement', 'Vandalism', 'Open Manholes', 'Dead Animals']","{'latitude': 43.8883473, 'longitude': 10.2448432}",2024-12-28 22:53:08+00:00
+"['Graffiti', 'Litter', 'Illegal Dumping']","{'latitude': 43.727068, 'longitude': 10.3927808}",2025-01-18 12:47:55+00:00
+"['Overgrown Vegetation', 'Vandalism', 'Blocked Drainage']","{'latitude': 43.716659, 'longitude': 10.4090697}",2024-11-06 14:51:56+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.7137223, 'longitude': 10.4026103}",2024-10-08 19:33:43+00:00
+['Graffiti'],"{'latitude': 43.7200658, 'longitude': 10.3972867}",2024-10-12 13:51:33+00:00
+"['Damaged Bench', 'Overgrown Vegetation']","{'latitude': 43.7212084, 'longitude': 10.4141084}",2025-01-13 13:01:21+00:00
+['Faded Paint'],"{'latitude': 43.7199059, 'longitude': 10.3981657}",2024-12-17 15:49:55+00:00
+"['Graffiti', 'Illegal Dumping']","{'latitude': 43.7230834, 'longitude': 10.4142621}",2025-01-23 15:34:15+00:00
+['Vandalism'],"{'latitude': 43.7250631, 'longitude': 10.3903871}",2025-02-05 15:14:00+00:00
+['Faded Paint'],"{'latitude': 43.720375, 'longitude': 10.3882175}",2025-01-28 21:48:29+00:00
+"['Overgrown Vegetation', 'Pothole', 'Litter']","{'latitude': 43.7230834, 'longitude': 10.4142621}",2025-01-16 18:12:10+00:00
+"['Overgrown Vegetation', 'Cracked Pavement', 'Damaged Bench']","{'latitude': 43.7230834, 'longitude': 10.4142621}",2024-12-30 18:53:54+00:00
+['Graffiti'],"{'latitude': 43.7214863, 'longitude': 10.3881794}",2024-10-27 22:58:12+00:00
+['Litter'],"{'latitude': 43.725873, 'longitude': 10.3911084}",2024-12-20 14:10:46+00:00
+['Faded Paint'],"{'latitude': 43.7196235, 'longitude': 10.3995101}",2025-02-08 11:38:58+00:00
+['Cracked Pavement'],"{'latitude': 43.7228187, 'longitude': 10.3894741}",2025-01-06 14:01:51+00:00
+['Cracked Pavement'],"{'latitude': 43.722358, 'longitude': 10.3964001}",2024-12-06 16:06:37+00:00
+['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-11-09 09:44:21+00:00
+['Graffiti'],"{'latitude': 43.72183, 'longitude': 10.3881685}",2024-12-31 11:53:08+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.724443, 'longitude': 10.4096854}",2025-02-05 17:21:58+00:00
+['Cracked Pavement'],"{'latitude': 43.7197744, 'longitude': 10.4002316}",2025-01-20 16:46:20+00:00
+['Pothole'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2025-01-27 07:32:19+00:00
+['Faded Paint'],"{'latitude': 43.7137223, 'longitude': 10.4026103}",2024-10-18 21:22:24+00:00
+['Unsafe Building'],"{'latitude': 43.7238073, 'longitude': 10.4022266}",2024-12-20 12:58:20+00:00
+['Litter'],"{'latitude': 43.7226813, 'longitude': 10.3943201}",2024-10-19 16:46:49+00:00
+['Cracked Pavement'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2024-11-10 15:55:40+00:00
+['Cracked Pavement'],"{'latitude': 43.7264433, 'longitude': 10.3931319}",2024-11-05 17:31:17+00:00
+"['Vandalism', 'Graffiti']","{'latitude': 43.7195409, 'longitude': 10.4135342}",2024-11-03 23:49:40+00:00
+"['Neglected Monuments', 'Unsafe Building', 'Vandalism']","{'latitude': 43.714925, 'longitude': 10.4063398}",2024-11-04 09:03:31+00:00
+"['Neglected Monuments', 'Unsafe Building', 'Litter']","{'latitude': 43.7205377, 'longitude': 10.4026103}",2025-01-17 22:07:13+00:00
+['Neglected Monuments'],"{'latitude': 43.718888, 'longitude': 10.407937}",2025-02-05 10:27:05+00:00
+['Cracked Pavement'],"{'latitude': 43.7318511, 'longitude': 10.4059359}",2024-12-07 16:49:30+00:00
+"['Overgrown Vegetation', 'Dead Animals', 'Illegal Dumping']","{'latitude': 43.7114451, 'longitude': 10.4066152}",2025-01-29 08:14:01+00:00
+['Dead Animals'],"{'latitude': 43.7318454, 'longitude': 10.4059775}",2024-11-05 10:55:50+00:00
+"['Overgrown Vegetation', 'Vandalism', 'Unsafe Building']","{'latitude': 43.7137257, 'longitude': 10.4022096}",2024-12-10 20:48:14+00:00
+['Air Pollution'],"{'latitude': 43.7163849, 'longitude': 10.3714598}",2025-01-23 12:26:12+00:00
+"['Unsafe Building', 'Graffiti', 'Faded Paint']","{'latitude': 43.7207587, 'longitude': 10.4154689}",2024-10-06 11:20:55+00:00
+['Litter'],"{'latitude': 43.7164, 'longitude': 10.3715343}",2024-12-04 20:26:20+00:00
+['Graffiti'],"{'latitude': 43.7218735, 'longitude': 10.404218}",2024-11-15 21:47:38+00:00
+"['Overgrown Vegetation', 'Dead Animals', 'Animal Menace']","{'latitude': 43.7140936, 'longitude': 10.4014626}",2024-12-13 20:32:47+00:00
+['Neglected Monuments'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2024-10-29 07:46:28+00:00
+"['Unsafe Building', 'Neglected Monuments']","{'latitude': 43.7205775, 'longitude': 10.4146245}",2024-10-03 23:47:19+00:00
+"['Cracked Pavement', 'Graffiti']","{'latitude': 43.7295277, 'longitude': 10.4065391}",2024-12-26 07:30:47+00:00
+"['Cracked Pavement', 'Vandalism', 'Neglected Monuments']","{'latitude': 43.720718, 'longitude': 10.4103342}",2024-12-20 09:34:07+00:00
+['Graffiti'],"{'latitude': 43.72007, 'longitude': 10.3973472}",2024-11-21 15:41:17+00:00
+['Overgrown Vegetation'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-11-16 23:09:47+00:00
+"['Litter', 'Open Manholes', 'Animal Menace', 'Faded Paint']","{'latitude': 43.7240153, 'longitude': 10.39191}",2024-11-29 08:12:26+00:00
+['Pothole'],"{'latitude': 43.7219451, 'longitude': 10.3894261}",2025-02-06 16:32:20+00:00
+"['Cracked Pavement', 'Damaged Bench']","{'latitude': 43.7257112, 'longitude': 10.3914589}",2024-11-08 14:45:26+00:00
+"['Overgrown Vegetation', 'Unsafe Building']","{'latitude': 43.7228167, 'longitude': 10.4141434}",2024-11-01 11:00:43+00:00
+"['Damaged Bench', 'Vandalism', 'Graffiti']","{'latitude': 43.7245306, 'longitude': 10.4084249}",2024-10-30 13:19:57+00:00
+['Vandalism'],"{'latitude': 43.7318443, 'longitude': 10.4060326}",2024-10-29 21:34:49+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7192991, 'longitude': 10.4124623}",2024-12-11 16:55:26+00:00
+['Neglected Monuments'],"{'latitude': 43.7205088, 'longitude': 10.4096428}",2024-12-21 22:13:42+00:00
+['Cracked Pavement'],"{'latitude': 43.7281056, 'longitude': 10.400855}",2025-01-19 18:46:08+00:00
+['Litter'],"{'latitude': 43.7318494, 'longitude': 10.4059563}",2025-02-08 14:16:55+00:00
+"['Neglected Monuments', 'Vandalism']","{'latitude': 43.7294517, 'longitude': 10.4065965}",2024-12-02 12:18:56+00:00
+"['Illegal Dumping', 'Overgrown Vegetation', 'Neglected Monuments']","{'latitude': 43.7167416, 'longitude': 10.409149}",2024-12-28 16:13:56+00:00
+"['Cracked Pavement', 'Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7194788, 'longitude': 10.4138096}",2025-01-23 22:18:32+00:00
+"['Neglected Monuments', 'Water Pollution', 'Air Pollution']","{'latitude': 43.7170471, 'longitude': 10.4039652}",2024-10-02 11:33:44+00:00
+['Litter'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-04 15:22:23+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Pothole', 'Litter']","{'latitude': 43.7169521, 'longitude': 10.4088561}",2024-12-19 11:04:27+00:00
+['Neglected Monuments'],"{'latitude': 43.7122941, 'longitude': 10.4022977}",2025-01-24 11:59:31+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7145046, 'longitude': 10.4016169}",2024-10-23 21:25:23+00:00
+"['Graffiti', 'Vandalism', 'Abandoned Vehicle']","{'latitude': 43.7114982, 'longitude': 10.4061437}",2024-11-01 17:34:40+00:00
+['Cracked Pavement'],"{'latitude': 43.7318937, 'longitude': 10.4059068}",2024-10-06 23:54:08+00:00
+['Vandalism'],"{'latitude': 43.7318473, 'longitude': 10.406004}",2025-02-04 15:13:50+00:00
+['Graffiti'],"{'latitude': 43.7198921, 'longitude': 10.3979779}",2025-01-08 15:23:15+00:00
+"['Neglected Monuments', 'Overgrown Vegetation', 'Litter', 'Pothole', 'Blocked Drainage']","{'latitude': 43.7113501, 'longitude': 10.4066224}",2024-10-13 10:20:27+00:00
+"['Overgrown Vegetation', 'Blocked Drainage', 'Unsafe Building']","{'latitude': 43.7165774, 'longitude': 10.4089544}",2024-12-12 09:53:57+00:00
+['Litter'],"{'latitude': 43.7318444, 'longitude': 10.406044}",2024-10-05 13:07:02+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Litter']","{'latitude': 43.7135321, 'longitude': 10.404532}",2024-11-17 20:36:25+00:00
+['Graffiti'],"{'latitude': 43.7215624, 'longitude': 10.3881245}",2025-01-10 09:04:32+00:00
+"['Animal Menace', 'Dead Animals', 'Graffiti', 'Litter']","{'latitude': 43.711756, 'longitude': 10.4073656}",2024-10-16 23:00:02+00:00
+"['Graffiti', 'Cracked Pavement']","{'latitude': 43.7149254, 'longitude': 10.4063396}",2025-01-07 13:39:56+00:00
+"['Graffiti', 'Vandalism']","{'latitude': 43.7137223, 'longitude': 10.4026103}",2025-02-05 23:36:05+00:00
+"['Dead Animals', 'Neglected Monuments']","{'latitude': 43.7245272, 'longitude': 10.4084249}",2025-01-26 10:52:37+00:00
+['Vandalism'],"{'latitude': 43.7319557, 'longitude': 10.4058304}",2024-12-10 07:48:17+00:00
+['Litter'],"{'latitude': 43.7319071, 'longitude': 10.405996}",2025-01-17 12:56:06+00:00
+"['Graffiti', 'Vandalism']","{'latitude': 43.7272347, 'longitude': 10.4046216}",2024-12-26 08:32:32+00:00
+"['Neglected Monuments', 'Cracked Pavement', 'Damaged Bench', 'Unsafe Building']","{'latitude': 43.7180417, 'longitude': 10.405249}",2024-12-06 16:23:31+00:00
+"['Overgrown Vegetation', 'Pothole']","{'latitude': 43.7214917, 'longitude': 10.4140547}",2024-11-26 11:54:21+00:00
+"['Pothole', 'Cracked Pavement']","{'latitude': 43.7225218, 'longitude': 10.3950567}",2025-02-02 18:01:40+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.7162079, 'longitude': 10.4041181}",2024-10-01 16:58:56+00:00
+"['Pothole', 'Cracked Pavement', 'Vandalism', 'Overgrown Vegetation']","{'latitude': 43.7199149, 'longitude': 10.4036669}",2025-01-24 11:28:00+00:00
+"['Graffiti', 'Faded Paint', 'Litter', 'Cracked Pavement', 'Vandalism']","{'latitude': 43.7137257, 'longitude': 10.4022096}",2024-12-03 21:29:46+00:00
+['Neglected Monuments'],"{'latitude': 43.7212569, 'longitude': 10.3850584}",2024-11-06 19:50:23+00:00
+['Animal Menace'],"{'latitude': 43.7241439, 'longitude': 10.3918215}",2025-02-01 08:47:50+00:00
+['Abandoned Vehicle'],"{'latitude': 43.7238147, 'longitude': 10.3978816}",2025-01-24 20:25:05+00:00
+['Graffiti'],"{'latitude': 43.7306232, 'longitude': 10.4070818}",2024-11-04 17:32:25+00:00
+['Cracked Pavement'],"{'latitude': 43.7248264, 'longitude': 10.3913767}",2024-10-20 19:14:16+00:00
+['Cracked Pavement'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-10-16 23:18:40+00:00
+"['Graffiti', 'Damaged Bench', 'Illegal Dumping']","{'latitude': 43.7137257, 'longitude': 10.40221}",2024-10-11 17:15:14+00:00
+"['Pothole', 'Overgrown Vegetation']","{'latitude': 43.7297606, 'longitude': 10.4067368}",2025-01-03 11:30:27+00:00
+"['Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.722876, 'longitude': 10.414308}",2025-01-01 22:20:36+00:00
+['Broken Streetlight'],"{'latitude': 43.7256785, 'longitude': 10.3908761}",2024-10-13 20:05:43+00:00
+"['Litter', 'Faded Paint', 'Pothole', 'Dead Animals']","{'latitude': 43.7168263, 'longitude': 10.4091517}",2024-12-15 22:07:36+00:00
+"['Unsafe Building', 'Graffiti', 'Faded Paint']","{'latitude': 43.7219218, 'longitude': 10.4138659}",2024-11-19 22:13:22+00:00
+['Neglected Monuments'],"{'latitude': 43.7161574, 'longitude': 10.4019082}",2024-12-09 22:02:45+00:00
+"['Overgrown Vegetation', 'Unsafe Bridge']","{'latitude': 43.7212888, 'longitude': 10.4130866}",2024-11-14 09:35:24+00:00
+['Vandalism'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-11-16 15:15:59+00:00
+['Neglected Monuments'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-12-26 11:51:11+00:00
+['Cracked Pavement'],"{'latitude': 43.731851, 'longitude': 10.4058939}",2024-12-11 08:11:20+00:00
+['Graffiti'],"{'latitude': 43.7206964, 'longitude': 10.3847074}",2025-01-14 20:25:41+00:00
+[],"{'latitude': 43.7319115, 'longitude': 10.4059205}",2025-01-31 13:19:28+00:00
+['Cracked Pavement'],"{'latitude': 43.7211997, 'longitude': 10.3971438}",2025-01-24 21:10:07+00:00
+['Litter'],"{'latitude': 43.7333735, 'longitude': 10.4015571}",2024-12-02 11:49:39+00:00
+['Faded Paint'],"{'latitude': 43.7137229, 'longitude': 10.4025414}",2024-10-06 21:52:36+00:00
+['Litter'],"{'latitude': 43.7318467, 'longitude': 10.4059564}",2025-01-08 07:19:12+00:00
+"['Graffiti', 'Overgrown Vegetation']","{'latitude': 43.7193518, 'longitude': 10.4187611}",2024-12-29 23:38:07+00:00
+"['Neglected Monuments', 'Unsafe Building', 'Cracked Pavement']","{'latitude': 43.7182663, 'longitude': 10.4031046}",2025-01-20 10:00:22+00:00
+['Graffiti'],"{'latitude': 43.7218001, 'longitude': 10.3881572}",2024-12-14 12:22:27+00:00
+['Overgrown Vegetation'],"{'latitude': 43.7229949, 'longitude': 10.3899522}",2024-11-29 20:47:07+00:00
+['Dead Animals'],"{'latitude': 43.7242017, 'longitude': 10.3917277}",2024-11-02 18:49:07+00:00
+['Cracked Pavement'],"{'latitude': 43.7224215, 'longitude': 10.3969367}",2025-01-30 07:16:22+00:00
+['Vandalism'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-27 21:47:47+00:00
+['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2025-01-14 15:58:16+00:00
+['Animal Menace'],"{'latitude': 43.7226783, 'longitude': 10.3975367}",2024-11-16 18:20:05+00:00
+"['Vandalism', 'Graffiti', 'Faded Paint']","{'latitude': 43.7192986, 'longitude': 10.412461}",2025-02-04 14:18:14+00:00
+['Litter'],"{'latitude': 43.7318549, 'longitude': 10.4058702}",2024-11-29 08:17:59+00:00
+"['Overgrown Vegetation', 'Damaged Bench', 'Vandalism']","{'latitude': 43.7194747, 'longitude': 10.4141964}",2024-10-20 23:11:16+00:00
+"['Overgrown Vegetation', 'Unsafe Bridge']","{'latitude': 43.7212888, 'longitude': 10.4130866}",2025-01-03 08:49:56+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.7137028, 'longitude': 10.4025983}",2024-12-23 23:30:59+00:00
+['Graffiti'],"{'latitude': 43.720195, 'longitude': 10.3971896}",2024-11-24 09:03:03+00:00
+['Cracked Pavement'],"{'latitude': 43.7212689, 'longitude': 10.3909596}",2024-10-14 09:32:34+00:00
+"['Graffiti', 'Faded Paint']","{'latitude': 43.724443, 'longitude': 10.4096854}",2025-01-26 20:13:47+00:00
+['Blocked Drainage'],"{'latitude': 43.7218878, 'longitude': 10.3919021}",2024-11-27 13:28:32+00:00
+['Graffiti'],"{'latitude': 43.7319891, 'longitude': 10.4058091}",2024-11-20 19:00:00+00:00
+['Dead Animals'],"{'latitude': 43.73185, 'longitude': 10.4059573}",2024-10-05 17:55:35+00:00
+"['Graffiti', 'Unsafe Building']","{'latitude': 43.7248411, 'longitude': 10.4049888}",2024-10-22 13:31:46+00:00
+"['Illegal Dumping', 'Water Pollution', 'Graffiti', 'Faded Paint']","{'latitude': 43.7135869, 'longitude': 10.400855}",2024-10-30 20:06:58+00:00
+['Blocked Drainage'],"{'latitude': 43.7228481, 'longitude': 10.3926366}",2025-02-06 15:39:34+00:00
+['Neglected Monuments'],"{'latitude': 43.7236482, 'longitude': 10.394536}",2024-10-26 14:54:17+00:00
+['Vandalism'],"{'latitude': 43.7318477, 'longitude': 10.4059222}",2025-01-11 14:48:15+00:00
+"['Overgrown Vegetation', 'Dead Animals']","{'latitude': 43.7240353, 'longitude': 10.4064722}",2024-10-04 09:08:42+00:00
+"['Litter', 'Unsafe Bridge', 'Graffiti']","{'latitude': 43.7209372, 'longitude': 10.3884053}",2025-01-28 13:24:06+00:00
+"['Blocked Drainage', 'Unsafe Bridge', 'Overgrown Vegetation', 'Neglected Monuments']","{'latitude': 43.7216454, 'longitude': 10.4131431}",2024-11-11 13:00:30+00:00
+"['Overgrown Vegetation', 'Unsafe Bridge']","{'latitude': 43.7212888, 'longitude': 10.4130866}",2024-12-20 07:25:53+00:00
+['Faded Paint'],"{'latitude': 43.7242339, 'longitude': 10.3913767}",2025-02-08 12:10:58+00:00
+['Pothole'],"{'latitude': 43.7228203, 'longitude': 10.3924801}",2024-10-22 21:06:58+00:00
+['Cracked Pavement'],"{'latitude': 43.723005, 'longitude': 10.3900078}",2024-11-15 19:24:45+00:00
+"['Litter', 'Water Pollution', 'Cracked Pavement', 'Overgrown Vegetation']","{'latitude': 43.7153863, 'longitude': 10.4060654}",2024-10-18 09:35:56+00:00
+['Air Pollution'],"{'latitude': 43.7319419, 'longitude': 10.405899}",2024-11-04 16:47:14+00:00
+['Damaged Bench'],"{'latitude': 43.7318475, 'longitude': 10.4060222}",2024-11-04 20:01:02+00:00
+['Graffiti'],"{'latitude': 43.7242643, 'longitude': 10.4105029}",2024-10-20 20:58:33+00:00
+"['Overgrown Vegetation', 'Neglected Monuments']","{'latitude': 43.7186458, 'longitude': 10.4083883}",2024-11-08 21:32:58+00:00
+['Graffiti'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-10-09 14:08:47+00:00
+['Broken Streetlight'],"{'latitude': 43.727068, 'longitude': 10.3927808}",2024-10-22 11:04:57+00:00
+['Water Pollution'],"{'latitude': 43.7210248, 'longitude': 10.3843564}",2025-02-04 22:37:42+00:00
