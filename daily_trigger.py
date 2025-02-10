@@ -194,21 +194,21 @@ for group in tag_groups.keys():
     # Get a timestamp for record keeping
     timestamp = (datetime.now(timezone.utc) + timedelta(days=7)).isoformat()
 
-# Iterate over each cluster and save it as a separate document
-for idx, cluster in enumerate(predicted_clusters):
-    print(cluster)
-    if cluster[2] <= 0:  
-        continue
+    # Iterate over each cluster and save it as a separate document
+    for idx, cluster in enumerate(predicted_clusters):
+        print(cluster)
+        if cluster[2] <= 0:  
+            continue
 
-    cluster_data = {
-        "group": group,
-        "pred_date": timestamp,
-        "latitude": float(cluster[0]),
-        "longitude": float(cluster[1]),
-        "volume": float(cluster[2]),
-    }
-    
-    collection = db.collection("predictions")
-    collection.add(cluster_data)
+        cluster_data = {
+            "group": group,
+            "pred_date": timestamp,
+            "latitude": float(cluster[0]),
+            "longitude": float(cluster[1]),
+            "volume": float(cluster[2]),
+        }
+        
+        collection = db.collection("predictions")
+        collection.add(cluster_data)
 
 print("Predictions saved to Firestore.")
